@@ -38,7 +38,7 @@ title: "Reglas"
 
 * Al terminar la fase regular:
 
-  * En el grupo **BLACK**: las 4 primeras parejas se disputarán en una fase eliminatoria de semifinal y final ser los campeones del grupo.
-  * En el grupo **WHITE**: los 2 primeros de cada subgrupo se disputarán en una fase eliminatoria de semifinal y final ser los campeones del grupo.
+  * En el grupo **BLACK**: las 4 primeras parejas se disputarán en una fase eliminatoria, de semifinal y final, ser los campeones del grupo.
+  * En el grupo **WHITE**: los 2 primeros de cada subgrupo se disputarán en una fase eliminatoria, de semifinal y final, ser los campeones del grupo.
   * La pareja vencedora del grupo **WHITE** ascenderá automáticamente al grupo **BLACK**, la última pareja grupo **BLACK** descenderá.
   * La pareja finalista del grupo **WHITE** disputará un partido de promoción contra la pareja en la penúltima posición del grupo **BLACK**.
