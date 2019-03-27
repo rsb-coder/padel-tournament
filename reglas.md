@@ -22,8 +22,6 @@ title: "Reglas"
 
 * Se realizará un sorteo para dividir el grupo **WHITE** en dos subgrupos: el subgrupo **RED** y el subgrupo **BLUE**, con 8 participantes cada grupo.
 
-* Se realizará un sorteo para emparejar a todos los participantes del torneo en cada uno de los grupos.
-
 * Finalmente, en cada uno de los grupos, **las parejas serán sorteadas** sin ningún criterio adicional. Dicho sorteo será realizado por La Organización™ de manera pública y transparente.
 
 ## Calendario y partidos
