@@ -2,10 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: "Reglas"
 ---
 
+# Reglas
 ## El torneo y La Organización™
 
 * La inscripción está abierta a todos los vecinos del Residencial Santa Barbara que se puedan comprometer a disputar cada uno de los partidos durante la celebración del mismo.

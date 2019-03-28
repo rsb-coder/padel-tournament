@@ -2,9 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: "Fase Regular"
 ---
+
+# Fase Regular
 
 <style>table { font-size: 0.85em }</style>
 
@@ -15,96 +17,96 @@ title: "Fase Regular"
 ## Grupo Black
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gabi<br/>Fernando | 0  | 0  | 0  | 0  | 0  |
+| Rafa<br/>Rivero | 0  | 0  | 0  | 0  | 0  |
+| Juancar<br/>David | 0  | 0  | 0  | 0  | 0  |
+| Luis<br/>Parri | 0  | 0  | 0  | 0  | 0  |
+| Joaquin<br/>Copado | 0  | 0  | 0  | 0  | 0  |
+| Angel<br/>Isra | 0  | 0  | 0  | 0  | 0  |
 
 ### Fecha 1
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gabi<br/>Fernando | Rafa<br/>Rivero | |
+| Juancar<br/>David | Luis<br/>Parri | |
+| Joaquin<br/>Copado | Angel<br/>Isra | |
 
 ### Fecha 2
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Rafa<br/>Rivero | Juancar<br/>David | |
+| Luis<br/>Parri | Joaquin<br/>Copado | |
+| Angel<br/>Isra | Gabi<br/>Fernando | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Juancar<br/>David | Joaquin<br/>Copado | |
+| Angel<br/>Isra | Rafa<br/>Rivero | |
+| Gabi<br/>Fernando | Luis<br/>Parri | |
 
 ### Fecha 4
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Luis<br/>Parri | Rafa<br/>Rivero | |
+| Joaquin<br/>Copado | Gabi<br/>Fernando | |
+| Juancar<br/>David | Angel<br/>Isra | |
 
 ### Fecha 5
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Rafa<br/>Rivero | Joaquin<br/>Copado | |
+| Angel<br/>Isra | Luis<br/>Parri | |
+| Gabi<br/>Fernando | Juancar<br/>David | |
 
 ## Grupo White/Red
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Jesus<br/>Victor | 0  | 0  | 0  | 0  | 0  |
+| Vega<br/>Ivan | 0  | 0  | 0  | 0  | 0  |
+| Juandi<br/>Juande | 0  | 0  | 0  | 0  | 0  |
+| Alfonso<br/>Alfonsinho | 0  | 0  | 0  | 0  | 0  |
 
 ### Fecha 1
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Jesus<br/>Victor | Vega<br/>Ivan | |
+| Juandi<br/>Juande | Alfonso<br/>Alfonsinho | |
 
 ### Fecha 2
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Vega<br/>Ivan | Juandi<br/>Juande | |
+| Alfonso<br/>Alfonsinho | Jesus<br/>Victor | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Juandi<br/>Juande | Jesus<br/>Victor | |
+| Vega<br/>Ivan | Alfonso<br/>Alfonsinho | |
 
 ## Grupo White/Blue
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Fran Diaz | 0  | 0  | 0  | 0  | 0  |
+| M. Angel<br/>Diego | 0  | 0  | 0  | 0  | 0  |
+| Paco Misa<br/>Varela | 0  | 0  | 0  | 0  | 0  |
+| Silva<br/>Antonio | 0  | 0  | 0  | 0  | 0  |
 
 ### Fecha 1
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Fran Diaz | M. Angel<br/>Diego | |
+| Paco Misa<br/>Varela | Silva<br/>Antonio | |
 
 ### Fecha 2
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| M. Angel<br/>Diego | Paco Misa<br/>Varela | |
+| Silva<br/>Antonio | Gallego<br/>Fran Diaz | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
-| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Paco Misa<br/>Varela | Gallego<br/>Fran Diaz | |
+| M. Angel<br/>Diego | Silva<br/>Antonio | |
