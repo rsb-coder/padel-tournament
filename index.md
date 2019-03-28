@@ -7,7 +7,6 @@ layout: home
 
 ¡Bienvenido! Aquí centralizaremos todo lo relacionado con el **II Torneo de Padel del Residencial Santa Barbara**. Calendarios, resultados, reglas... 🎾
 
-### Secciones disponibles
-
 * [Cuentas]({{ site.baseurl }}{% link cuentas.md %})
+* [Fase Regular]({{ site.baseurl }}{% link fase_regular.md %})
 * [Reglas]({{ site.baseurl }}{% link reglas.md %})
