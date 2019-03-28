@@ -44,4 +44,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Vega         |   ❌    |
 | Victor       |   ❌    |
 |              |         |
-| **Total**    | 18 euros|
+| **Total**    | 21 euros|
