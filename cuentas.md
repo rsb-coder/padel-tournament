@@ -40,8 +40,8 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Rafa         |   ❌    |
 | Rivero       |   ❌    |
 | Silva        |   ✅    |
-| Varela       |   ❌    |
+| Varela       |   ✅    |
 | Vega         |   ❌    |
 | Victor       |   ❌    |
 |              |         |
-| **Total**    | 12 euros|
+| **Total**    | 15 euros|
