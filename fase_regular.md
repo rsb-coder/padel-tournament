@@ -12,7 +12,7 @@ title: "Fase Regular"
 
 ## Grupo Black
 
-| Pareja     | PJ | PG | PP | JG | JP |
+| **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
@@ -23,42 +23,42 @@ title: "Fase Regular"
 
 ### Fecha 1
 
-| Pareja 1 | Pareja 2 | Resultado |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 2
 
-| Pareja 1 | Pareja 2 | Resultado |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 3
 
-| Pareja 1 | Pareja 2 | Resultado |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 4
 
-| Pareja 1 | Pareja 2 | Resultado |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 5
 
-| Pareja 1 | Pareja 2 | Resultado |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ## Grupo White/Red
 
-| Pareja     | PJ | PG | PP | JG | JP |
+| **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
@@ -66,28 +66,25 @@ title: "Fase Regular"
 
 ### Fecha 1
 
-| Pareja 1 | Pareja 2 | Resultado |
-| Gallego - Gallego | Gallego - Gallego | |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 2
 
-| Pareja 1 | Pareja 2 | Resultado |
-| Gallego - Gallego | Gallego - Gallego | |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 3
 
-| Pareja 1 | Pareja 2 | Resultado |
-| Gallego - Gallego | Gallego - Gallego | |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ## Grupo White/Blue
 
-| Pareja     | PJ | PG | PP | JG | JP |
+| **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
 | Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
@@ -95,21 +92,18 @@ title: "Fase Regular"
 
 ### Fecha 1
 
-| Pareja 1 | Pareja 2 | Resultado |
-| Gallego - Gallego | Gallego - Gallego | |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 2
 
-| Pareja 1 | Pareja 2 | Resultado |
-| Gallego - Gallego | Gallego - Gallego | |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
 
 ### Fecha 3
 
-| Pareja 1 | Pareja 2 | Resultado |
-| Gallego - Gallego | Gallego - Gallego | |
+| **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego - Gallego | Gallego - Gallego | |
 | Gallego - Gallego | Gallego - Gallego | |
