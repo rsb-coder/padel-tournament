@@ -34,7 +34,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Joaquín      |   ❌    |
 | Juancar      |   ✅    |
 | Juande       |   ✅    |
-| Juandi       |   ❌    |
+| Juandi       |   ✅    |
 | Luis         |   ✅    |
 | M. Angel P   |   ❌    |
 | Paco Misa    |   ❌    |
@@ -46,4 +46,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Vega         |   ❌    |
 | Victor       |   ✅    |
 |              |         |
-| **Total**    | 42 euros|
+| **Total**    | 45 euros|
