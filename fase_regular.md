@@ -6,6 +6,8 @@ layout: home
 title: "Fase Regular"
 ---
 
+<style>table { font-size: 0.85em }</style>
+
 * [Grupo Black](#grupo-black)
 * [Grupo White/Red](#grupo-whitered)
 * [Grupo White/Blue](#grupo-whiteblue)
@@ -13,97 +15,96 @@ title: "Fase Regular"
 ## Grupo Black
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
 
 ### Fecha 1
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 2
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 4
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 5
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ## Grupo White/Red
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
 
 ### Fecha 1
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 2
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ## Grupo White/Blue
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
-| Gallego - Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
+| Gallego<br/>Gallego | 0  | 0  | 0  | 0  | 0  |
 
 ### Fecha 1
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 2
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gallego - Gallego | Gallego - Gallego | |
-| Gallego - Gallego | Gallego - Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
+| Gallego<br/>Gallego | Gallego<br/>Gallego | |
