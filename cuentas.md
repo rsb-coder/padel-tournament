@@ -31,7 +31,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Jesus        |   ❌    |
 | Joaquín      |   ❌    |
 | Juancar      |   ❌    |
-| Juande       |   ❌    |
+| Juande       |   ✅    |
 | Juandi       |   ❌    |
 | Luis         |   ✅    |
 | M. Angel P   |   ❌    |
