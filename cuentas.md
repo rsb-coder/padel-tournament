@@ -37,11 +37,11 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | M. Angel P   |   ❌    |
 | Paco Misa    |   ❌    |
 | Parri        |   ❌    |
-| Rafa         |   ❌    |
+| Rafa         |   ✅    |
 | Rivero       |   ❌    |
 | Silva        |   ✅    |
 | Varela       |   ✅    |
 | Vega         |   ❌    |
 | Victor       |   ❌    |
 |              |         |
-| **Total**    | 15 euros|
+| **Total**    | 18 euros|
