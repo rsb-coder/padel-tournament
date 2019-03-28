@@ -28,7 +28,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Fran Diaz    |   ❌    |
 | Gabi         |   ❌    |
 | Gallego      |   ✅    |
-| Isra         |   ❌    |
+| Isra         |   ✅    |
 | Ivan         |   ✅    |
 | Jesus        |   ❌    |
 | Joaquín      |   ❌    |
@@ -46,4 +46,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Vega         |   ❌    |
 | Victor       |   ✅    |
 |              |         |
-| **Total**    | 45 euros|
+| **Total**    | 48 euros|
