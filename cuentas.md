@@ -21,29 +21,29 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Alfonsinho   |   ❌    |
 | Angel        |   ❌    |
 | Antonio P    |   ✅    |
-| Copado       |   ❌    |
-| David        |   ❌    |
+| Copado       |   ✅    |
+| David        |   ✅    |
 | Diego        |   ❌    |
 | Fernando     |   ❌    |
 | Fran Diaz    |   ❌    |
 | Gabi         |   ❌    |
 | Gallego      |   ✅    |
 | Isra         |   ❌    |
-| Ivan         |   ❌    |
+| Ivan         |   ✅    |
 | Jesus        |   ❌    |
 | Joaquín      |   ❌    |
-| Juancar      |   ❌    |
+| Juancar      |   ✅    |
 | Juande       |   ✅    |
 | Juandi       |   ❌    |
 | Luis         |   ✅    |
 | M. Angel P   |   ❌    |
 | Paco Misa    |   ❌    |
-| Parri        |   ❌    |
+| Parri        |   ✅    |
 | Rafa         |   ✅    |
-| Rivero       |   ❌    |
+| Rivero       |   ✅    |
 | Silva        |   ✅    |
 | Varela       |   ✅    |
 | Vega         |   ❌    |
-| Victor       |   ❌    |
+| Victor       |   ✅    |
 |              |         |
-| **Total**    | 21 euros|
+| **Total**    | 42 euros|
