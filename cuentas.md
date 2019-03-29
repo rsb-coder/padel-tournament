@@ -14,7 +14,7 @@ Ingresos (69€) - Gastos (62,91€) = **6,09 € en positivo**
 
 ## Gastos
 
-| 14 sets de bolas Bullpadel Premium Pro |  62,91€ | [Justificante](https://www.dropbox.com/s/czjv29e11lk4yst/ticket_de_compra.pdf?dl=0)
+| 14 sets de 3 bolas Bullpadel Premium Pro |  62,91€ | [Justificante](https://www.dropbox.com/s/czjv29e11lk4yst/ticket_de_compra.pdf?dl=0)
 | **Total** | 62,91€ ||
 
 ## Ingresos
