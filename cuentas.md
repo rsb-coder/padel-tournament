@@ -17,16 +17,16 @@ Actualmente aún no se ha producido ningún gasto.
 Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** por parte de cada uno de los participantes. Esta es la relación de participantes y el estado del pago de su cuota:
 
 | Participante | Estado  |
-| Alfonso      |   ❌    |
-| Alfonsinho   |   ❌    |
+| Alfonso      |   ✅    |
+| Alfonsinho   |   ✅    |
 | Angel        |   ❌    |
 | Antonio P    |   ✅    |
 | Copado       |   ✅    |
 | David        |   ✅    |
-| Diego        |   ❌    |
+| Diego        |   ✅    |
 | Fernando     |   ❌    |
 | Fran Diaz    |   ❌    |
-| Gabi         |   ❌    |
+| Gabi         |   ✅    |
 | Gallego      |   ✅    |
 | Isra         |   ✅    |
 | Ivan         |   ✅    |
@@ -46,4 +46,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Vega         |   ❌    |
 | Victor       |   ✅    |
 |              |         |
-| **Total**    | 54 euros|
+| **Total**    | 66 euros|
