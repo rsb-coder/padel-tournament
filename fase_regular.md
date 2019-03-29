@@ -31,7 +31,7 @@ title: "Fase Regular"
 | Juancar<br/>David | Luis<br/>Parri | |
 | Joaquin<br/>Copado | Angel<br/>Isra | |
 
-### Jornada del 25/04 al 14/04
+### Jornada del 25/04 al 14/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Rafa<br/>Rivero | Juancar<br/>David | |
@@ -73,7 +73,7 @@ title: "Fase Regular"
 | Jesus<br/>Victor | Vega<br/>Ivan | |
 | Juandi<br/>Juande | Alfonso<br/>Alfonsinho | |
 
-### Jornada del 25/04 al 14/04
+### Jornada del 25/04 al 14/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Vega<br/>Ivan | Juandi<br/>Juande | |
@@ -99,7 +99,7 @@ title: "Fase Regular"
 | Gallego<br/>Fran Diaz | M. Angel<br/>Diego | |
 | Paco Misa<br/>Varela | Silva<br/>Antonio | |
 
-### Jornada del 25/04 al 14/04
+### Jornada del 25/04 al 14/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | M. Angel<br/>Diego | Paco Misa<br/>Varela | |
