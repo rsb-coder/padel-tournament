@@ -31,7 +31,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Isra         |   ✅    |
 | Ivan         |   ✅    |
 | Jesus        |   ❌    |
-| Joaquín      |   ❌    |
+| Joaquín      |   ✅    |
 | Juancar      |   ✅    |
 | Juande       |   ✅    |
 | Juandi       |   ✅    |
@@ -46,4 +46,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Vega         |   ❌    |
 | Victor       |   ✅    |
 |              |         |
-| **Total**    | 48 euros|
+| **Total**    | 51 euros|
