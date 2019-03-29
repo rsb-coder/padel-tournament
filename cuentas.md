@@ -8,9 +8,14 @@ title: "Cuentas"
 
 # Cuentas
 
+## Estado de la caja
+
+Ingresos (69€) - Gastos (62,91€) = **6,09 € en positivo**
+
 ## Gastos
 
-Actualmente aún no se ha producido ningún gasto.
+| 14 sets de bolas Bullpadel Premium Pro |  62,91€ | [Justificante](https://www.dropbox.com/s/czjv29e11lk4yst/ticket_de_compra.pdf?dl=0)
+| **Total** | 62,91€ ||
 
 ## Ingresos
 
@@ -45,5 +50,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Varela       |   ✅    |
 | Vega         |   ❌    |
 | Victor       |   ✅    |
-|              |         |
-| **Total**    | 69 euros|
+| **Total**    |   69€   |
