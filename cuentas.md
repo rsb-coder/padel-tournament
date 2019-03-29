@@ -19,7 +19,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Participante | Estado  |
 | Alfonso      |   ✅    |
 | Alfonsinho   |   ✅    |
-| Angel        |   ❌    |
+| Angel        |   ✅    |
 | Antonio P    |   ✅    |
 | Copado       |   ✅    |
 | David        |   ✅    |
@@ -46,4 +46,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Vega         |   ❌    |
 | Victor       |   ✅    |
 |              |         |
-| **Total**    | 66 euros|
+| **Total**    | 69 euros|
