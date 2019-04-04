@@ -17,7 +17,7 @@ title: "Fase Regular"
 ## Grupo Black
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gabi<br/>Felipe | 0  | 0  | 0  | 0  | 0  |
+| Gabi<br/>Fernando | 0  | 0  | 0  | 0  | 0  |
 | Rafa<br/>Rivero | 0  | 0  | 0  | 0  | 0  |
 | Juancar<br/>David | 0  | 0  | 0  | 0  | 0  |
 | Luis<br/>Parri | 0  | 0  | 0  | 0  | 0  |
@@ -27,7 +27,7 @@ title: "Fase Regular"
 ### Jornada del 06/04 al 24/04
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Gabi<br/>Felipe | Rafa<br/>Rivero | |
+| Gabi<br/>Fernando | Rafa<br/>Rivero | |
 | Juancar<br/>David | Luis<br/>Parri | |
 | Joaquin<br/>Copado | Angel<br/>Isra | |
 
@@ -36,20 +36,20 @@ title: "Fase Regular"
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Rafa<br/>Rivero | Juancar<br/>David | |
 | Luis<br/>Parri | Joaquin<br/>Copado | |
-| Angel<br/>Isra | Gabi<br/>Felipe | |
+| Angel<br/>Isra | Gabi<br/>Fernando | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Juancar<br/>David | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Rafa<br/>Rivero | |
-| Gabi<br/>Felipe | Luis<br/>Parri | |
+| Gabi<br/>Fernando | Luis<br/>Parri | |
 
 ### Fecha 4
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Luis<br/>Parri | Rafa<br/>Rivero | |
-| Joaquin<br/>Copado | Gabi<br/>Felipe | |
+| Joaquin<br/>Copado | Gabi<br/>Fernando | |
 | Juancar<br/>David | Angel<br/>Isra | |
 
 ### Fecha 5
@@ -57,7 +57,7 @@ title: "Fase Regular"
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Rafa<br/>Rivero | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Luis<br/>Parri | |
-| Gabi<br/>Felipe | Juancar<br/>David | |
+| Gabi<br/>Fernando | Juancar<br/>David | |
 
 ## Grupo White/Red
 

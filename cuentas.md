@@ -29,7 +29,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Copado       |   ✅    |
 | David        |   ✅    |
 | Diego        |   ✅    |
-| Felipe       |   ❌    |
+| Fernando     |   ❌    |
 | Fran Diaz    |   ❌    |
 | Gabi         |   ✅    |
 | Gallego      |   ✅    |
