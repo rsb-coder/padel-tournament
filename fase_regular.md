@@ -65,25 +65,21 @@ title: "Fase Regular"
 | Jesus<br/>Victor | 0  | 0  | 0  | 0  | 0  |
 | Vega<br/>Ivan | 0  | 0  | 0  | 0  | 0  |
 | Juandi<br/>Juande | 0  | 0  | 0  | 0  | 0  |
-| Alfonso<br/>Alfonsinho | 0  | 0  | 0  | 0  | 0  |
 
 ### Jornada del 06/04 al 24/04
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Jesus<br/>Victor | Vega<br/>Ivan | |
-| Juandi<br/>Juande | Alfonso<br/>Alfonsinho | |
 
 ### Jornada del 25/04 al 14/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Vega<br/>Ivan | Juandi<br/>Juande | |
-| Alfonso<br/>Alfonsinho | Jesus<br/>Victor | |
 
 ### Fecha 3
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Juandi<br/>Juande | Jesus<br/>Victor | |
-| Vega<br/>Ivan | Alfonso<br/>Alfonsinho | |
 
 ## Grupo White/Blue
 
