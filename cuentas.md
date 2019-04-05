@@ -10,7 +10,7 @@ title: "Cuentas"
 
 ## Estado de la caja
 
-Ingresos (69€) - Gastos (62,91€) = **6,09 € en positivo**
+Ingresos (75€) - Gastos (62,91€) = **12,09 € en positivo**
 
 ## Gastos
 
@@ -35,7 +35,7 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Gallego      |   ✅    |
 | Isra         |   ✅    |
 | Ivan         |   ✅    |
-| Jesus        |   ❌    |
+| Jesus        |   ✅    |
 | Joaquín      |   ✅    |
 | Juancar      |   ✅    |
 | Juande       |   ✅    |
@@ -50,4 +50,4 @@ Los ingresos del torneo corresponde a **la cuota de inscripción de 3 euros** po
 | Varela       |   ✅    |
 | Vega         |   ❌    |
 | Victor       |   ✅    |
-| **Total**    |   72€   |
+| **Total**    |   75€   |
