@@ -6,6 +6,7 @@ categories: matches
 ---
 
 ![](https://www.dropbox.com/s/qqw6r5h67uyx105/partido-inaugural.png?raw=1)
+![](/assets/partido-inaugural.png)
 
 Tras lluvias, lesiones y percances de todo tipo, el primer partido del torneo al fin tuvo lugar.
 Enfrentaban a las parejas de **Victor** y **Jesús** contra **Vega** e **Iván** del grupo White/Red
