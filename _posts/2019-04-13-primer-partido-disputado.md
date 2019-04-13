@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¡Partido inaugural disputado!"
-date:   2019-03-28 17:00:00 +0100
+date:   2019-04-13 22:00:00 +0100
 categories: matches
 ---
 
