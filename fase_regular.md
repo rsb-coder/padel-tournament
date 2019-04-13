@@ -63,7 +63,7 @@ title: "Fase Regular"
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Jesus<br/>Victor | 1  | 1  | 0  | 12  | 6  |
-| Vega<br/>Ivan | 1  | 0  | 0  | 6  | 12  |
+| Vega<br/>Ivan | 1  | 0  | 1  | 6  | 12  |
 | Juandi<br/>Juande | 0  | 0  | 0  | 0  | 0  |
 
 ### Jornada del 06/04 al 24/04
