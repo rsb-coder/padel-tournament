@@ -24,14 +24,14 @@ title: "Fase Regular"
 | Joaquin<br/>Copado | 0  | 0  | 0  | 0  | 0  |
 | Angel<br/>Isra | 0  | 0  | 0  | 0  | 0  |
 
-### Jornada del 06/04 al 24/04
+### Jornada del 06/04 al 26/04
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gabi<br/>Fernando | Rafa<br/>Rivero | |
 | Juancar<br/>David | Luis<br/>Parri | |
 | Joaquin<br/>Copado | Angel<br/>Isra | |
 
-### Jornada del 25/04 al 14/05
+### Jornada del 27/04 al 17/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Rafa<br/>Rivero | Juancar<br/>David | |
@@ -66,12 +66,12 @@ title: "Fase Regular"
 | Vega<br/>Ivan | 1  | 0  | 1  | 6  | 12  |
 | Juandi<br/>Juande | 0  | 0  | 0  | 0  | 0  |
 
-### Jornada del 06/04 al 24/04
+### Jornada del 06/04 al 26/04
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Jesus<br/>Victor | Vega<br/>Ivan | 6-4 6-2 |
 
-### Jornada del 25/04 al 14/05
+### Jornada del 27/04 al 17/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Vega<br/>Ivan | Juandi<br/>Juande | |
@@ -89,13 +89,13 @@ title: "Fase Regular"
 | Paco Misa<br/>Varela | 0  | 0  | 0  | 0  | 0  |
 | Silva<br/>Antonio | 0  | 0  | 0  | 0  | 0  |
 
-### Jornada del 06/04 al 24/04
+### Jornada del 06/04 al 26/04
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Gallego<br/>Fran Diaz | M. Angel<br/>Diego | |
 | Paco Misa<br/>Varela | Silva<br/>Antonio | |
 
-### Jornada del 25/04 al 14/05
+### Jornada del 27/04 al 17/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | M. Angel<br/>Diego | Paco Misa<br/>Varela | |
