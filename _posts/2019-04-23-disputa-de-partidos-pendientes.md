@@ -9,7 +9,7 @@ Atendiendo a las distintas reclamaciones sobre cierta flexibilización de los l�
 
 1. El partido se tiene que notificar a los organizadores **antes del 23:59 del día 26**.
 2. El partido fuera de plazo **no se puede volver a modificar** de fecha.
-3. La pareja que no pueda disputar el partido en la fecha excepcional, **será considerada perdedora** de ese partido por 0-6 0-6.
-4. Si el partido excepcional no se notifica antes de la fecha límite, el partido **se dara por no disputado ni será disputable** para el resto del torneo.
+3. La pareja que no pueda disputar el partido en la fecha excepcional, **será considerada perdedora** por 0-6 0-6.
+4. Si el partido excepcional no se notifica antes de la fecha límite, el partido **se dará por no disputado ni será disputable** para el resto del torneo.
 
 La Organización.
