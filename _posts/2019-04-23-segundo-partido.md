@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Segundo partido disputado"
+comments: true
 date:   2019-04-23 7:30:00 +0100
 categories: matches
 ---

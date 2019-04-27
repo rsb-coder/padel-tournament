@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "¡La II edición del Torneo Santa Barbara está aquí!"
+comments: true
 date:   2019-03-27 14:00:00 +0000
 categories: welcome
 ---

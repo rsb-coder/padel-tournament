@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Recogida de bolas usadas"
+comments: true
 date:   2019-04-27 11:30:00 +0100
 categories: off-topic
 ---

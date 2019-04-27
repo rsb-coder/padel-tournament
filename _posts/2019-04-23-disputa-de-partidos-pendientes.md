@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Disputa de los partidos pendientes de la primera jornada"
+comments: true
 date:   2019-04-23 8:00:00 +0100
 categories: announcements
 ---

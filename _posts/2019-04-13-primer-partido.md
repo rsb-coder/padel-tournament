@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "¡Partido inaugural!"
+comments: true
 date:   2019-04-13 22:00:00 +0100
 categories: matches
 ---
