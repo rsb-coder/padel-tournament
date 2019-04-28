@@ -11,4 +11,4 @@ impuesto por un 6-4 6-4 a la pareja formada por **Diego** y **Miguel Angel**.
 
 ![]({{ site.baseurl }}/assets/segunda-jornada.png)
 
-La pareja invicta del torneo tiene ya pie y medio en la fase de clasificación. ¡Enhorabuena!
+La pareja invicta del torneo tiene ya pie y medio en la fase de eliminatoria. ¡Enhorabuena!
