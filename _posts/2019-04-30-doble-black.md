@@ -2,7 +2,7 @@
 layout: post
 title:  "Doble black"
 comments: true
-date:   2019-04-230 10:00:00 +0100
+date:   2019-04-30 10:00:00 +0100
 categories: matches
 ---
 
