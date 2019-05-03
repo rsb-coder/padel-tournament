@@ -86,8 +86,8 @@ title: "Fase Regular"
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Silva<br/>Antonio     | 2 | 2 | 0 | 26 | 22 |
 | Gallego<br/>Fran Diaz | 1 | 1 | 0 | 12 | 4  |
-| Paco Misa<br/>Varela  | 1 | 0 | 1 | 14 | 14 |
-| M. Angel<br/>Diego    | 2 | 0 | 2 | 12  | 24  |
+| Paco Misa<br/>Varela  | 2 | 1 | 1 | 29 | 26 |
+| M. Angel<br/>Diego    | 3 | 0 | 3 | 24  | 39  |
 
 ### Jornada del 06/04 al 26/04
 
@@ -98,7 +98,7 @@ title: "Fase Regular"
 ### Jornada del 27/04 al 17/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| M. Angel<br/>Diego | Paco Misa<br/>Varela | |
+| M. Angel<br/>Diego | Paco Misa<br/>Varela | 3-6 6-3 3-6 |
 | Silva<br/>Antonio | Gallego<br/>Fran Diaz | |
 
 ### Jornada del 18/05 al 31/05
