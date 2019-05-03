@@ -38,21 +38,21 @@ title: "Fase Regular"
 | Luis<br/>Parri | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Gabi<br/>Fernando | |
 
-### Fecha 3
+### Jornada del 18/05 al 31/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Juancar<br/>David | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Rafa<br/>Rivero | |
 | Gabi<br/>Fernando | Luis<br/>Parri | |
 
-### Fecha 4
+### Jornada del 1/06 al 14/06
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Luis<br/>Parri | Rafa<br/>Rivero | |
 | Joaquin<br/>Copado | Gabi<br/>Fernando | |
 | Juancar<br/>David | Angel<br/>Isra | |
 
-### Fecha 5
+### Jornada del 15/06 al 28/06
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Rafa<br/>Rivero | Joaquin<br/>Copado | |
@@ -76,7 +76,7 @@ title: "Fase Regular"
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Vega<br/>Ivan | Juandi<br/>Juande | |
 
-### Fecha 3
+### Jornada del 18/05 al 31/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Juandi<br/>Juande | Jesus<br/>Victor | |
@@ -101,7 +101,7 @@ title: "Fase Regular"
 | M. Angel<br/>Diego | Paco Misa<br/>Varela | |
 | Silva<br/>Antonio | Gallego<br/>Fran Diaz | |
 
-### Fecha 3
+### Jornada del 18/05 al 31/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Paco Misa<br/>Varela | Gallego<br/>Fran Diaz | |
