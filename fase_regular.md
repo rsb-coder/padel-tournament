@@ -38,21 +38,21 @@ title: "Fase Regular"
 | Luis<br/>Parri | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Gabi<br/>Fernando | |
 
-### Jornada del 18/05 al 31/05
+### Jornada del 18/05 al 27/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Juancar<br/>David | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Rafa<br/>Rivero | |
 | Gabi<br/>Fernando | Luis<br/>Parri | |
 
-### Jornada del 1/06 al 14/06
+### Jornada del 28/05 al 06/06
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Luis<br/>Parri | Rafa<br/>Rivero | |
 | Joaquin<br/>Copado | Gabi<br/>Fernando | |
 | Juancar<br/>David | Angel<br/>Isra | |
 
-### Jornada del 15/06 al 28/06
+### Jornada del 06/06 al 15/06
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | Rafa<br/>Rivero | Joaquin<br/>Copado | |
