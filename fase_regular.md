@@ -19,7 +19,7 @@ title: "Fase Regular"
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Gabi<br/>Fernando | 1  | 1  | 0  | 12  | 4  |
 | Joaquin<br/>Copado | 1  | 1  | 0  | 15  | 12  |
-| Juancar<br/>David | 3  | 1  | 1  | 29  | 26  |
+| Juancar<br/>David | 2  | 1  | 1  | 29  | 26  |
 | Luis<br/>Parri | 1  | 1  | 0  | 16  | 15  |
 | Angel<br/>Isra | 1  | 0  | 1  | 12  | 15  |
 | Rafa<br/>Rivero | 2  | 0  | 2  | 14 | 26  |
