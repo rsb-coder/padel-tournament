@@ -22,7 +22,7 @@ title: "Fase Regular"
 | Juancar<br/>David | 2  | 1  | 1  | 29  | 26  |
 | Gabi<br/>Fernando | 2  | 1  | 1  | 14  | 16  |
 | Luis<br/>Parri | 1  | 1  | 0  | 16  | 15  |
-| Rafa<br/>Rivero | 3  | 0  | 2  | 14 | 26  |
+| Rafa<br/>Rivero | 2  | 0  | 2  | 14 | 26  |
 
 ### Jornada del 06/04 al 26/04
 
