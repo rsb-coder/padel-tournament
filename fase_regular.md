@@ -99,7 +99,7 @@ title: "Fase Regular"
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
 | M. Angel<br/>Diego | Paco Misa<br/>Varela | 3-6 6-3 3-6 |
-| Silva<br/>Antonio | M. Angel<br/>Diego | 4-6 4-6 |
+| Silva<br/>Antonio | M. Angel<br/>Diego | 6-4 6-4 |
 
 ### Jornada del 18/05 al 31/05
 
