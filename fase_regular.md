@@ -20,8 +20,8 @@ title: "Fase Regular"
 | Joaquin<br/>Copado | 2  | 2  | 0  | 32  | 26  |
 | Angel<br/>Isra | 2  | 1  | 1  | 24  | 17  |
 | Juancar<br/>David | 2  | 1  | 1  | 28  | 26  |
-| Gabi<br/>Fernando | 2  | 1  | 1  | 14  | 16  |
 | Luis<br/>Parri | 2  | 1  | 1  | 30  | 31  |
+| Gabi<br/>Fernando | 2  | 1  | 1  | 14  | 16  |
 | Rafa<br/>Rivero | 2  | 0  | 2  | 14 | 26  |
 
 ### Jornada del 06/04 al 26/04
