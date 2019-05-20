@@ -63,8 +63,8 @@ title: "Fase Regular"
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
 | Jesus<br/>Victor | 1  | 1  | 0  | 12  | 6  |
-| Vega<br/>Ivan | 1  | 0  | 1  | 6  | 12  |
-| Juandi<br/>Juande | 0  | 0  | 0  | 0  | 0  |
+| Vega<br/>Ivan | 2  | 1  | 1  | 18  | 16  |
+| Juandi<br/>Juande | 1  | 0  | 1  | 4  | 12  |
 
 ### Jornada del 06/04 al 26/04
 
@@ -74,7 +74,7 @@ title: "Fase Regular"
 ### Jornada del 27/04 al 17/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Vega<br/>Ivan | Juandi<br/>Juande | |
+| Vega<br/>Ivan | Juandi<br/>Juande | 6-1 6-3 |
 
 ### Jornada del 18/05 al 31/05
 
@@ -84,9 +84,9 @@ title: "Fase Regular"
 ## Grupo White/Blue
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
+| Gallego<br/>Fran Diaz | 2 | 2 | 0 | 24 | 5  |
 | Silva<br/>Antonio     | 2 | 2 | 0 | 26 | 22 |
-| Gallego<br/>Fran Diaz | 1 | 1 | 0 | 12 | 4  |
-| Paco Misa<br/>Varela  | 2 | 1 | 1 | 29 | 26 |
+| Paco Misa<br/>Varela  | 3 | 1 | 2 | 30 | 38 |
 | M. Angel<br/>Diego    | 3 | 0 | 3 | 24  | 39  |
 
 ### Jornada del 06/04 al 26/04
@@ -104,5 +104,5 @@ title: "Fase Regular"
 ### Jornada del 18/05 al 31/05
 
 | **Pareja 1** | **Pareja 2** | **Resultado** |
-| Paco Misa<br/>Varela | Gallego<br/>Fran Diaz | |
+| Paco Misa<br/>Varela | Gallego<br/>Fran Diaz | 1-6 0-6 |
 | Gallego<br/>Fran Diaz | Silva<br/>Antonio | |
