@@ -76,8 +76,8 @@ title: "Fase Regular"
 ## Grupo White/Blue
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Gallego<br/>Fran Diaz | 2 | 2 | 0 | 24 | 5  |
-| Silva<br/>Antonio     | 2 | 2 | 0 | 26 | 22 |
+| Gallego<br/>Fran Diaz | 3 | 3 | 0 | 36 | 5  |
+| Silva<br/>Antonio     | 3 | 2 | 1 | 26 | 34 |
 | Paco Misa<br/>Varela  | 3 | 1 | 2 | 30 | 38 |
 | M. Angel<br/>Diego    | 3 | 0 | 3 | 24  | 39  |
 
@@ -94,4 +94,4 @@ title: "Fase Regular"
 ### Jornada del 18/05 al 31/05
 
 | Paco Misa<br/>Varela | **Gallego<br/>Fran Diaz** | 1-6 0-6 |
-| Gallego<br/>Fran Diaz | Silva<br/>Antonio | |
+| **Gallego<br/>Fran Diaz** | Silva<br/>Antonio | 6-0 6-0 |
