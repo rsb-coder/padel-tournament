@@ -26,11 +26,15 @@ title: "Fase Regular"
 
 ### Jornada del 06/04 al 26/04
 
+<div class="table-results"></div>
+
 | **Gabi<br/>Fernando** | Rafa<br/>Rivero | 6-2 6-2 |
 | Juancar<br/>David | **Luis<br/>Parri** | 6-4 4-6 4-6 |
 | **Joaquin<br/>Copado** | Angel<br/>Isra | 3-6 6-3 6-3 |
 
 ### Jornada del 27/04 al 17/05
+
+<div class="table-results"></div>
 
 | Rafa<br/>Rivero | **Juancar<br/>David** | 6-2 2-6 2-6 |
 | Luis<br/>Parri | **Joaquin<br/>Copado** | 4-6 7-5 3-6 |
@@ -38,17 +42,23 @@ title: "Fase Regular"
 
 ### Jornada del 18/05 al 27/05
 
+<div class="table-results"></div>
+
 | Juancar<br/>David | **Joaquin<br/>Copado** | 3-6 2-6 |
 | **Angel<br/>Isra** | Rafa<br/>Rivero | 6-4 6-2 |
 | Gabi<br/>Fernando | Luis<br/>Parri | |
 
 ### Jornada del 28/05 al 06/06
 
+<div class="table-results"></div>
+
 | Luis<br/>Parri | Rafa<br/>Rivero | |
 | Joaquin<br/>Copado | Gabi<br/>Fernando | |
 | Juancar<br/>David | Angel<br/>Isra | |
 
 ### Jornada del 06/06 al 15/06
+
+<div class="table-results"></div>
 
 | Rafa<br/>Rivero | Joaquin<br/>Copado | |
 | Angel<br/>Isra | Luis<br/>Parri | |
@@ -63,13 +73,19 @@ title: "Fase Regular"
 
 ### Jornada del 06/04 al 26/04
 
+<div class="table-results"></div>
+
 | **Jesus<br/>Victor** | Vega<br/>Ivan | 6-4 6-2 |
 
 ### Jornada del 27/04 al 17/05
 
+<div class="table-results"></div>
+
 | **Vega<br/>Ivan** | Juandi<br/>Juande | 6-1 6-3 |
 
 ### Jornada del 18/05 al 31/05
+
+<div class="table-results"></div>
 
 | Juandi<br/>Juande | Jesus<br/>Victor | |
 
@@ -83,15 +99,25 @@ title: "Fase Regular"
 
 ### Jornada del 06/04 al 26/04
 
+<div class="table-results"></div>
+
 | **Gallego<br/>Fran Diaz** | M. Angel<br/>Diego | 6-2 6-2 |
 | Paco Misa<br/>Varela | **Silva<br/>Antonio** | 6-2 4-6 4-6 |
 
 ### Jornada del 27/04 al 17/05
+
+<div class="table-results"></div>
 
 | M. Angel<br/>Diego | **Paco Misa<br/>Varela** | 3-6 6-3 3-6 |
 | **Silva<br/>Antonio** | M. Angel<br/>Diego | 6-4 6-4 |
 
 ### Jornada del 18/05 al 31/05
 
+<div class="table-results"></div>
+
 | Paco Misa<br/>Varela | **Gallego<br/>Fran Diaz** | 1-6 0-6 |
 | **Gallego<br/>Fran Diaz** | Silva<br/>Antonio | 6-0 6-0 |
+
+<style>
+  div.table-results + table td { width: 33% }
+</style>
