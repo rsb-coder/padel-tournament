@@ -13,6 +13,8 @@ title: "Fase Regular"
   div.table-results + table td { width: 33% }
 </style>
 
+<p>Todos los resultados de la fase regular del II Torneo Padel Santa Barbara.</p>
+
 * [Grupo Black](#grupo-black)
 * [Grupo White/Red](#grupo-whitered)
 * [Grupo White/Blue](#grupo-whiteblue)
