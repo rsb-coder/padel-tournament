@@ -8,7 +8,10 @@ title: "Fase Regular"
 
 # Fase Regular
 
-<style>table { font-size: 0.85em }</style>
+<style>
+  table { font-size: 0.85em }
+  div.table-results + table td { width: 33% }
+</style>
 
 * [Grupo Black](#grupo-black)
 * [Grupo White/Red](#grupo-whitered)
@@ -20,9 +23,9 @@ title: "Fase Regular"
 | Joaquin<br/>Copado | 4 | 3  | 1  | 54  | 47  |
 | Angel<br/>Isra | 3  | 2  | 1  | 36  | 23  |
 | Gabi<br/>Fernando | 3  | 2  | 1  | 30  | 26  |
-| Luis<br/>Parri | 2  | 1  | 1  | 30  | 31  |
+| Luis<br/>Parri | 3  | 2  | 1  | 45  | 45  |
 | Juancar<br/>David | 3  | 1  | 2  | 33  | 38  |
-| Rafa<br/>Rivero | 3  | 0  | 3  | 20 | 38  |
+| Rafa<br/>Rivero | 4  | 0  | 4  | 34 | 53  |
 
 ### Jornada del 06/04 al 26/04
 
@@ -52,7 +55,7 @@ title: "Fase Regular"
 
 <div class="table-results"></div>
 
-| Luis<br/>Parri | Rafa<br/>Rivero | |
+| **Luis<br/>Parri** | Rafa<br/>Rivero | 6-4 3-6 6-4 |
 | Joaquin<br/>Copado | **Gabi<br/>Fernando** | 6-4 2-6 2-6 |
 | Juancar<br/>David | Angel<br/>Isra | |
 
@@ -117,7 +120,3 @@ title: "Fase Regular"
 
 | Paco Misa<br/>Varela | **Gallego<br/>Fran Diaz** | 1-6 0-6 |
 | **Gallego<br/>Fran Diaz** | Silva<br/>Antonio | 6-0 6-0 |
-
-<style>
-  div.table-results + table td { width: 33% }
-</style>
