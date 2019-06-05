@@ -72,9 +72,9 @@ title: "Fase Regular"
 ## Grupo White/Red
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Jesus<br/>Victor | 1  | 1  | 0  | 12  | 6  |
+| Jesus<br/>Victor | 2  | 2  | 0  | 24  | 9  |
 | Vega<br/>Ivan | 2  | 1  | 1  | 18  | 16  |
-| Juandi<br/>Juande | 1  | 0  | 1  | 4  | 12  |
+| Juandi<br/>Juande | 2  | 0  | 2  | 7  | 24  |
 
 ### Jornada del 06/04 al 26/04
 
@@ -92,7 +92,7 @@ title: "Fase Regular"
 
 <div class="table-results"></div>
 
-| Juandi<br/>Juande | Jesus<br/>Victor | |
+| Juandi<br/>Juande | **Jesus<br/>Victor** | 3-6 0-6 |
 
 ## Grupo White/Blue
 
