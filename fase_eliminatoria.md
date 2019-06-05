@@ -19,7 +19,7 @@ title: "Fase Eliminatoria"
 
 Pendiente de la fase regular.
 
-## Grupo White/Red
+## Grupo White
 
 ### Semifinales
 
