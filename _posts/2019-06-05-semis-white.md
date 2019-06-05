@@ -6,7 +6,7 @@ date:   2019-06-05 12:00:00 +0100
 categories: news
 ---
 
-Ya ha pasado un tiempo desde las últimas noticias del torneo pero no por ello ha dejado de avanzar. El grupo Black sigue disputando sus partidos, y el grupo White (que tenía una fase regular más corta) ha completado todos sus partidos.
+Ya ha pasado un tiempo desde las últimas noticias del torneo pero no por ello ha dejado de avanzar. El grupo Black sigue disputando sus partidos, y el grupo White (que tenía una fase regular más corta) los ha completado todos.
 
 El resultado de la fase de regular ha concluido en los siguientes partidos de semifinales:
 
