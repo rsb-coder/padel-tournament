@@ -22,12 +22,12 @@ title: "Fase Regular"
 ## Grupo Black
 
 | **Pareja**     | **PJ** | **PG** | **PP** | **JG** | **JP** |
-| Angel<br/>Isra | 4  | 3  | 1  | 48  | 25  |
-| Joaquin<br/>Copado | 4 | 3  | 1  | 54  | 47  |
+| Angel<br/>Isra | 5  | 4  | 1  | 60  | 28  |
+| Joaquin<br/>Copado | 5 | 4  | 1  | 66  | 52  |
 | Gabi<br/>Fernando | 3  | 2  | 1  | 30  | 26  |
-| Luis<br/>Parri | 3  | 2  | 1  | 45  | 45  |
+| Luis<br/>Parri | 4  | 2  | 2  | 48  | 57  |
 | Juancar<br/>David | 4  | 1  | 3  | 35  | 50  |
-| Rafa<br/>Rivero | 4  | 0  | 4  | 34 | 53  |
+| Rafa<br/>Rivero | 5  | 0  | 5  | 39 | 65  |
 
 ### Jornada del 06/04 al 26/04
 
@@ -65,8 +65,8 @@ title: "Fase Regular"
 
 <div class="table-results"></div>
 
-| Rafa<br/>Rivero | Joaquin<br/>Copado | |
-| Angel<br/>Isra | Luis<br/>Parri | |
+| Rafa<br/>Rivero | **Joaquin<br/>Copado** | 3-6 2-6 |
+| **Angel<br/>Isra** | Luis<br/>Parri | 6-1 6-2 |
 | Gabi<br/>Fernando | Juancar<br/>David | |
 
 ## Grupo White/Red
