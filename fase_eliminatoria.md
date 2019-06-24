@@ -23,5 +23,9 @@ Pendiente de la fase regular.
 
 ### Semifinales
 
-| Jesus<br/>Victor | Antonio<br/>Diego | |
+| Jesus<br/>Victor | **Antonio<br/>Diego** | 1-6 6-7 |
 | Gallego<br/>Fran | Vega<br>Ivan | |
+
+### Final
+
+| Antonio<br/>Diego |||
