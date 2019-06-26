@@ -17,14 +17,15 @@ title: "Fase Eliminatoria"
 
 ## Grupo Black
 
-Pendiente de la fase regular.
+| Isra<br/>Angel | Luis<br/>Parri | |
+| Gabi<br/>Fernando | Joaquin<br/>Copado | |
 
 ## Grupo White
 
 ### Semifinales
 
 | Jesus<br/>Victor | **Antonio<br/>Diego** | 1-6 6-7 |
-| Gallego<br/>Fran | Vega<br>Ivan | |
+| Gallego<br/>Fran | Vega<br/>Ivan | |
 
 ### Final
 
